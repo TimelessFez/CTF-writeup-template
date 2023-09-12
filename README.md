@@ -2,45 +2,45 @@
 
 by *team member 1*, *t34m_m3mber_2*, and *team member 3*
 
-## The Challenge
+## 1. The Challenge
 
-### Prompt
+### 1.1 Prompt
 - screenshot / text
 
-### Task Files
+### 1.2 Task Files
 - link to task files
 
 ## Table of Contents
 - [The Challenge](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-challenge)
-  - [Prompt](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#prompt)
-  - [Task Files](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#task-files)
+  - **1.1** [Prompt](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#prompt)
+  - **1.2** [Task Files](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#task-files)
 - [Gathering Information/Findings/Research](https://github.com/TimelessFez/CTF-writeup-template/blob/main/README.md#gathering-informationfindingsresearch))
 - [Thought Process/Approach](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#thought-process)
 - [Exploit (if applicable)](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#capturing-the-flag)
 - [Capturing the Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#exploit-if-applicable)
-  - [Solution](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#solution)
-  - [The Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-flag)
+  - **5.1.** [Solution](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#solution)
+  - **5.2.** [The Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-flag)
 
-## Gathering Information/Findings/Research
+## 2. Gathering Information/Findings/Research
 - note observations
 - available info
 
-## Thought Process/Approach
+## 3. Thought Process/Approach
 - explain thought process
 - approach taken to solve challenge
 - obstacles faced, if any
 
-## Exploit (if applicable)
+## 4. Exploit (if applicable)
 - explain thought process
 - approach taken to solve challenge
 - obstacles faced, if any
 
-## Capturing the Flag
-### Solution
+## 5. Capturing the Flag
+### 5.1. Solution
 - lorem
 - ipsum
 
-### The Flag
+### 5.2. The Flag
 ``PCTF{placeholder_flag}``
 
 ---
