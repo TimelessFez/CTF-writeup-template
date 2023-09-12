@@ -11,14 +11,14 @@ by *team member 1*, *t34m_m3mber_2*, and *team member 3*
 - link to task files
 
 ## Table of Contents
-- [# The Challenge](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-challenge)
-  - [# Prompt](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#prompt)
-  - [# Task Files](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#task-files)
-- [# Gathering Information](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#gathering-information)
-- [# Thought Process](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#thought-process)
-- [# Capturing the Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#capturing-the-flag)
-  - [# Solution](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#solution)
-  - [# The Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-flag)
+- [The Challenge](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-challenge)
+  - [Prompt](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#prompt)
+  - [Task Files](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#task-files)
+- [Gathering Information](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#gathering-information)
+- [Thought Process](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#thought-process)
+- [Capturing the Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#capturing-the-flag)
+  - [Solution](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#solution)
+  - [The Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-flag)
 
 ## Gathering Information
 - note observations
