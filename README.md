@@ -14,7 +14,7 @@ by *team member 1*, *t34m_m3mber_2*, and *team member 3*
 - [The Challenge](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#the-challenge)
   - **1.1** [Prompt](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#prompt)
   - **1.2** [Task Files](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#task-files)
-- [Gathering Information/Findings/Research](https://github.com/TimelessFez/CTF-writeup-template/blob/main/README.md#gathering-informationfindingsresearch))
+- [Gathering Information/Findings/Research](https://github.com/TimelessFez/CTF-writeup-template/blob/main/README.md#gathering-informationfindingsresearch)
 - [Thought Process/Approach](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#thought-process)
 - [Exploit (if applicable)](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#capturing-the-flag)
 - [Capturing the Flag](https://github.com/TimelessFez/pCTF-marketing/edit/main/README.md#exploit-if-applicable)
@@ -40,7 +40,8 @@ by *team member 1*, *t34m_m3mber_2*, and *team member 3*
 - lorem
 - ipsum
 
-### 5.2. The Flag (optional, refer to competition guidelines)
+### 5.2. The Flag
+Sometimes the competition may not allow you to post the flags publicly before a certain time/date, if at all. Please refer to the competition guidelines before making the flags public.
 ``FezCTF{placehold3r_flag}``
 
 ---
