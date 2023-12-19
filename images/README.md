@@ -13,9 +13,9 @@ We can verify that it maintains the same aspect ratio of 16:9 by simplifying the
 By dividing both numbers with their greatest common factor (GCF) of 25, we get the following:
 
 ```
-400 (÷ 25) | 225 (÷ 25)
- 16        |   9
-         16:9
+┃ 400 (÷ 25) ┃ 225 (÷ 25) ┃
+┃  16        ┃    9       ┃
+┃          16:9           ┃
 ```
 
 - Markdown
