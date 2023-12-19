@@ -1,6 +1,6 @@
 # CTF Name | Category | Task Name
 
-by *team member 1*, *t34m_m3mber_2*, and *TimelessFez*
+by *team member 1*, *t34m_m3mber_2*, and *[TimelessFez](https://github.com/TimelessFez/)*
 
 ## 1. The Challenge
 
