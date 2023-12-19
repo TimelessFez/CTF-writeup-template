@@ -49,7 +49,7 @@ Sometimes the competition may not allow you to post the flags publicly before a 
 # File Structure
 - general repository file structure example, for write-up entries on GitHub
 ```
-CTF
+CTF Name 2023
  └─ Category 1
  │      ├─ Challenge 1
  │      │     ├─ images
