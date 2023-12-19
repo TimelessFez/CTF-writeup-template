@@ -40,16 +40,33 @@ by *team member 1*, *t34m_m3mber_2*, and *team member 3*
 - lorem
 - ipsum
 
-### 5.2. The Flag
-``PCTF{placeholder_flag}``
+### 5.2. The Flag (optional, refer to competition guidelines)
+``FezCTF{placehold3r_flag}``
 
 ---
 
 # File Structure
-- general file structure example for write-up entries on github
+- general repository file structure example, for write-up entries on GitHub
 ```
 CTF
  └─ Category 1
+ │      ├─ Challenge 1
+ │      │     ├─ images
+ │      │     │      ├─ screenshot_1.jpeg
+ │      │     │      └─ screenshot_2.jpeg
+ │      │     ├─ files
+ │      │     │      ├─ image_1.png
+ │      │     │      └─ prompt.txt
+ │      │     └─ README.md
+ │      └─ Challenge 2
+ │           ├─ images
+ │           │      ├─ screenshot_1.jpeg
+ │           │      └─ screenshot_2.jpeg
+ │           ├─ files
+ │           │      ├─ image_1.png
+ │           │      └─ prompt.txt
+ │           └─ README.md
+ └─ Category 2
         ├─ Challenge 1
         │     ├─ images
         │     │      ├─ screenshot_1.jpeg
@@ -66,4 +83,5 @@ CTF
              │      ├─ image_1.png
              │      └─ prompt.txt
              └─ README.md
+
 ```
